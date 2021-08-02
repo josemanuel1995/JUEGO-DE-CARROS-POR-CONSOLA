@@ -1,6 +1,7 @@
 # JUEGO-DE-CARROS-POR-CONSOLA
 
 Instrucciones para Ejecutar el programa:
+
 Paso 1.
 Dirigirte al archivo mediante el panel de comandos con el siguiente enlace: 
 C:\Users\arauj\Escritorio\Reto Técnico Training League 2021\Carrera_de_autos>
