@@ -13,8 +13,8 @@ C:\Users\arauj\Escritorio\Reto Técnico Training League 2021\Carrera_de_autos>ja
 # Aviso!!
 Si en el panel de comandos no encuentra la clase, Escribir los siguientes comandos:
 
-*Crear la clase java:
+* Crear la clase java:
 C:\Users\arauj\Escritorio\Reto Técnico Training League 2021\Carrera_de_autos>javac TTTT.java
 
-*Ejecutar el juego:
+* Ejecutar el juego:
 C:\Users\arauj\Escritorio\Reto Técnico Training League 2021\Carrera_de_autos>java TTTT
